@@ -1,0 +1,28 @@
+.container4{
+    background-color: rgb(131, 142, 142);
+    margin: 5px;
+    padding: 5%;
+    border-radius: 10px;
+    width: 50% ;
+}
+.project{
+    background-color: rgb(90, 203, 150);
+    border-radius: 10px;
+    padding: 5px;
+}
+.project2{
+    background-color: rgb(90, 150, 203);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.project3{
+    background-color: rgb(203, 90, 150);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.baslık{
+    border-bottom: 3px solid black;
+    
+}
